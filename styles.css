@@ -396,6 +396,10 @@ img {
 
 .footer__social {
   margin-bottom: var(--mb-4);
+  
+}
+.footer__social{
+  color: aqua;
 }
 
 .footer__icon {
